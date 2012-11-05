@@ -41,6 +41,7 @@ group :test do
 	# for Mac OS X
 	# gem 'rb-fsevent', '0.9.1', :require => false
   	# gem 'growl', '1.0.3'
+  	gem 'factory_girl_rails', '4.1.0'
 end
 
 group :production do
